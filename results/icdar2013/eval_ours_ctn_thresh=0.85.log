@@ -1,0 +1,1264 @@
+********************************************************************************
+Processing 'eu-001.pdf'
+..............................
+Running evaluation for GT='gt/eu-001-str.xml'; RES='res/eu-001-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-001-str.xml
+Using resultFile: res/eu-001-str-result.xml
+Using    PDFFile: pdf/eu-001.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 46 corrDet: 46 detected: 46  Precision: 46 / 46 = 1.0  Recall: 46 / 46 = 1.0
+Table 2:  GT size: 81 corrDet: 81 detected: 81  Precision: 81 / 81 = 1.0  Recall: 81 / 81 = 1.0
+Table 3:  GT size: 60 corrDet: 60 detected: 60  Precision: 60 / 60 = 1.0  Recall: 60 / 60 = 1.0
+Table 4:  GT size: 158 corrDet: 158 detected: 158  Precision: 158 / 158 = 1.0  Recall: 158 / 158 = 1.0
+Table 5:  GT size: 151 corrDet: 151 detected: 151  Precision: 151 / 151 = 1.0  Recall: 151 / 151 = 1.0
+Table 6:  GT size: 116 corrDet: 116 detected: 116  Precision: 116 / 116 = 1.0  Recall: 116 / 116 = 1.0
+Table 7:  GT size: 53 corrDet: 53 detected: 53  Precision: 53 / 53 = 1.0  Recall: 53 / 53 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 46 CORR: 46 DET: 46 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 81 CORR: 81 DET: 81 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 60 CORR: 60 DET: 60 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 158 CORR: 158 DET: 158 Prec: 1.0 Recall: 1.0
+Table: 5 GT: 151 CORR: 151 DET: 151 Prec: 1.0 Recall: 1.0
+Table: 6 GT: 116 CORR: 116 DET: 116 Prec: 1.0 Recall: 1.0
+Table: 7 GT: 53 CORR: 53 DET: 53 Prec: 1.0 Recall: 1.0
+[eu-001] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-002.pdf'
+..............................
+Running evaluation for GT='gt/eu-002-str.xml'; RES='res/eu-002-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-002-str.xml
+Using resultFile: res/eu-002-str-result.xml
+Using    PDFFile: pdf/eu-002.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 54 corrDet: 54 detected: 54  Precision: 54 / 54 = 1.0  Recall: 54 / 54 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 54 CORR: 54 DET: 54 Prec: 1.0 Recall: 1.0
+[eu-002] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-003.pdf'
+..............................
+Running evaluation for GT='gt/eu-003-str.xml'; RES='res/eu-003-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-003-str.xml
+Using resultFile: res/eu-003-str-result.xml
+Using    PDFFile: pdf/eu-003.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 10 corrDet: 10 detected: 10  Precision: 10 / 10 = 1.0  Recall: 10 / 10 = 1.0
+Table 2:  GT size: 52 corrDet: 52 detected: 52  Precision: 52 / 52 = 1.0  Recall: 52 / 52 = 1.0
+Table 3:  GT size: 36 corrDet: 36 detected: 36  Precision: 36 / 36 = 1.0  Recall: 36 / 36 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 10 CORR: 10 DET: 10 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 52 CORR: 52 DET: 52 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 36 CORR: 36 DET: 36 Prec: 1.0 Recall: 1.0
+[eu-003] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-004.pdf'
+..............................
+Running evaluation for GT='gt/eu-004-str.xml'; RES='res/eu-004-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-004-str.xml
+Using resultFile: res/eu-004-str-result.xml
+Using    PDFFile: pdf/eu-004.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 197 corrDet: 197 detected: 197  Precision: 197 / 197 = 1.0  Recall: 197 / 197 = 1.0
+Table 2:  GT size: 168 corrDet: 168 detected: 168  Precision: 168 / 168 = 1.0  Recall: 168 / 168 = 1.0
+Table 3:  GT size: 36 corrDet: 36 detected: 36  Precision: 36 / 36 = 1.0  Recall: 36 / 36 = 1.0
+Table 4:  GT size: 70 corrDet: 70 detected: 70  Precision: 70 / 70 = 1.0  Recall: 70 / 70 = 1.0
+Table 5:  GT size: 102 corrDet: 100 detected: 101  Precision: 100 / 101 = 0.990099  Recall: 100 / 102 = 0.98039216
+Table 6:  GT size: 164 corrDet: 161 detected: 163  Precision: 161 / 163 = 0.9877301  Recall: 161 / 164 = 0.98170733
+Table 7:  GT size: 164 corrDet: 160 detected: 163  Precision: 160 / 163 = 0.9815951  Recall: 160 / 164 = 0.9756098
+Table 8:  GT size: 142 corrDet: 140 detected: 141  Precision: 140 / 141 = 0.9929078  Recall: 140 / 142 = 0.9859155
+Table 9:  GT size: 85 corrDet: 85 detected: 85  Precision: 85 / 85 = 1.0  Recall: 85 / 85 = 1.0
+Table 10:  GT size: 95 corrDet: 95 detected: 95  Precision: 95 / 95 = 1.0  Recall: 95 / 95 = 1.0
+Table 11:  GT size: 100 corrDet: 100 detected: 100  Precision: 100 / 100 = 1.0  Recall: 100 / 100 = 1.0
+Table 12:  GT size: 130 corrDet: 130 detected: 130  Precision: 130 / 130 = 1.0  Recall: 130 / 130 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 197 CORR: 197 DET: 197 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 168 CORR: 168 DET: 168 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 36 CORR: 36 DET: 36 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 70 CORR: 70 DET: 70 Prec: 1.0 Recall: 1.0
+Table: 5 GT: 102 CORR: 100 DET: 101 Prec: 0.990099 Recall: 0.98039216
+Table: 6 GT: 164 CORR: 161 DET: 163 Prec: 0.9877301 Recall: 0.98170733
+Table: 7 GT: 164 CORR: 160 DET: 163 Prec: 0.9815951 Recall: 0.9756098
+Table: 8 GT: 142 CORR: 140 DET: 141 Prec: 0.9929078 Recall: 0.9859155
+Table: 9 GT: 85 CORR: 85 DET: 85 Prec: 1.0 Recall: 1.0
+Table: 10 GT: 95 CORR: 95 DET: 95 Prec: 1.0 Recall: 1.0
+Table: 11 GT: 100 CORR: 100 DET: 100 Prec: 1.0 Recall: 1.0
+Table: 12 GT: 130 CORR: 130 DET: 130 Prec: 1.0 Recall: 1.0
+[eu-004] PRECISION: 1.00; RECALL: 0.99; F1: 0.99
+********************************************************************************
+Processing 'eu-005.pdf'
+..............................
+Running evaluation for GT='gt/eu-005-str.xml'; RES='res/eu-005-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-005-str.xml
+Using resultFile: res/eu-005-str-result.xml
+Using    PDFFile: pdf/eu-005.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 70 corrDet: 65 detected: 65  Precision: 65 / 65 = 1.0  Recall: 65 / 70 = 0.9285714
+Table 2:  GT size: 173 corrDet: 173 detected: 173  Precision: 173 / 173 = 1.0  Recall: 173 / 173 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 70 CORR: 65 DET: 65 Prec: 1.0 Recall: 0.9285714
+Table: 2 GT: 173 CORR: 173 DET: 173 Prec: 1.0 Recall: 1.0
+[eu-005] PRECISION: 1.00; RECALL: 0.98; F1: 0.99
+********************************************************************************
+Processing 'eu-006.pdf'
+..............................
+Running evaluation for GT='gt/eu-006-str.xml'; RES='res/eu-006-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-006-str.xml
+Using resultFile: res/eu-006-str-result.xml
+Using    PDFFile: pdf/eu-006.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 77 corrDet: 77 detected: 77  Precision: 77 / 77 = 1.0  Recall: 77 / 77 = 1.0
+Table 2:  GT size: 29 corrDet: 29 detected: 29  Precision: 29 / 29 = 1.0  Recall: 29 / 29 = 1.0
+Table 3:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+Table 4:  GT size: 32 corrDet: 24 detected: 33  Precision: 24 / 33 = 0.72727275  Recall: 24 / 32 = 0.75
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 77 CORR: 77 DET: 77 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 29 CORR: 29 DET: 29 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 32 CORR: 24 DET: 33 Prec: 0.72727275 Recall: 0.75
+[eu-006] PRECISION: 0.94; RECALL: 0.95; F1: 0.95
+********************************************************************************
+Processing 'eu-007.pdf'
+..............................
+Running evaluation for GT='gt/eu-007-str.xml'; RES='res/eu-007-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-007-str.xml
+Using resultFile: res/eu-007-str-result.xml
+Using    PDFFile: pdf/eu-007.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 27 corrDet: 27 detected: 27  Precision: 27 / 27 = 1.0  Recall: 27 / 27 = 1.0
+Table 2:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+Table 3:  GT size: 7 corrDet: 2 detected: 10  Precision: 2 / 10 = 0.2  Recall: 2 / 7 = 0.2857143
+Table 4:  GT size: 52 corrDet: 52 detected: 52  Precision: 52 / 52 = 1.0  Recall: 52 / 52 = 1.0
+Table 5:  GT size: 10 corrDet: 10 detected: 10  Precision: 10 / 10 = 1.0  Recall: 10 / 10 = 1.0
+Table 6:  GT size: 47 corrDet: 47 detected: 47  Precision: 47 / 47 = 1.0  Recall: 47 / 47 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 27 CORR: 27 DET: 27 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 7 CORR: 2 DET: 10 Prec: 0.2 Recall: 0.2857143
+Table: 4 GT: 52 CORR: 52 DET: 52 Prec: 1.0 Recall: 1.0
+Table: 5 GT: 10 CORR: 10 DET: 10 Prec: 1.0 Recall: 1.0
+Table: 6 GT: 47 CORR: 47 DET: 47 Prec: 1.0 Recall: 1.0
+[eu-007] PRECISION: 0.95; RECALL: 0.97; F1: 0.96
+********************************************************************************
+Processing 'eu-008.pdf'
+..............................
+Running evaluation for GT='gt/eu-008-str.xml'; RES='res/eu-008-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-008-str.xml
+Using resultFile: res/eu-008-str-result.xml
+Using    PDFFile: pdf/eu-008.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 97 corrDet: 95 detected: 98  Precision: 95 / 98 = 0.96938777  Recall: 95 / 97 = 0.97938144
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 97 CORR: 95 DET: 98 Prec: 0.96938777 Recall: 0.97938144
+[eu-008] PRECISION: 0.97; RECALL: 0.98; F1: 0.97
+********************************************************************************
+Processing 'eu-009a.pdf'
+..............................
+Running evaluation for GT='gt/eu-009a-str.xml'; RES='res/eu-009a-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-009a-str.xml
+Using resultFile: res/eu-009a-str-result.xml
+Using    PDFFile: pdf/eu-009a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 40 corrDet: 38 detected: 40  Precision: 38 / 40 = 0.95  Recall: 38 / 40 = 0.95
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 40 CORR: 38 DET: 40 Prec: 0.95 Recall: 0.95
+[eu-009a] PRECISION: 0.95; RECALL: 0.95; F1: 0.95
+..............................
+Running evaluation for GT='gt/eu-009b-str.xml'; RES='res/eu-009a-str-result.xml' (loop=1)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-009b-str.xml
+Using resultFile: res/eu-009a-str-result.xml
+Using    PDFFile: pdf/eu-009a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 38 corrDet: 36 detected: 40  Precision: 36 / 40 = 0.9  Recall: 36 / 38 = 0.94736844
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 38 CORR: 36 DET: 40 Prec: 0.9 Recall: 0.94736844
+[eu-009a] PRECISION: 0.90; RECALL: 0.95; F1: 0.92
+Selecting result 'a' 0.9500000000000001 vs. 0.9230769230769231
+********************************************************************************
+Processing 'eu-010.pdf'
+..............................
+Running evaluation for GT='gt/eu-010-str.xml'; RES='res/eu-010-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-010-str.xml
+Using resultFile: res/eu-010-str-result.xml
+Using    PDFFile: pdf/eu-010.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 31 corrDet: 31 detected: 31  Precision: 31 / 31 = 1.0  Recall: 31 / 31 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 31 CORR: 31 DET: 31 Prec: 1.0 Recall: 1.0
+[eu-010] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-011.pdf'
+..............................
+Running evaluation for GT='gt/eu-011-str.xml'; RES='res/eu-011-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-011-str.xml
+Using resultFile: res/eu-011-str-result.xml
+Using    PDFFile: pdf/eu-011.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 49 corrDet: 49 detected: 49  Precision: 49 / 49 = 1.0  Recall: 49 / 49 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 49 CORR: 49 DET: 49 Prec: 1.0 Recall: 1.0
+[eu-011] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-012.pdf'
+..............................
+Running evaluation for GT='gt/eu-012-str.xml'; RES='res/eu-012-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-012-str.xml
+Using resultFile: res/eu-012-str-result.xml
+Using    PDFFile: pdf/eu-012.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 29 corrDet: 29 detected: 29  Precision: 29 / 29 = 1.0  Recall: 29 / 29 = 1.0
+Table 2:  GT size: 100 corrDet: 73 detected: 92  Precision: 73 / 92 = 0.79347825  Recall: 73 / 100 = 0.73
+Table 3:  GT size: 99 corrDet: 93 detected: 95  Precision: 93 / 95 = 0.97894734  Recall: 93 / 99 = 0.93939394
+Table 4:  GT size: 75 corrDet: 70 detected: 72  Precision: 70 / 72 = 0.9722222  Recall: 70 / 75 = 0.93333334
+Table 5:  GT size: 52 corrDet: 52 detected: 52  Precision: 52 / 52 = 1.0  Recall: 52 / 52 = 1.0
+!!!!!!!!!! 1 FALSE POSITIVE TABLES FOUND !!!!!!!!!!!!
+FP table with 13 adjacency relations
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 29 CORR: 29 DET: 29 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 100 CORR: 73 DET: 92 Prec: 0.79347825 Recall: 0.73
+Table: 3 GT: 99 CORR: 93 DET: 95 Prec: 0.97894734 Recall: 0.93939394
+Table: 4 GT: 75 CORR: 70 DET: 72 Prec: 0.9722222 Recall: 0.93333334
+Table: 5 GT: 52 CORR: 52 DET: 52 Prec: 1.0 Recall: 1.0
+FP table with  13  adj. relations found
+[eu-012] PRECISION: 0.90; RECALL: 0.89; F1: 0.90
+********************************************************************************
+Processing 'eu-013.pdf'
+..............................
+Running evaluation for GT='gt/eu-013-str.xml'; RES='res/eu-013-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-013-str.xml
+Using resultFile: res/eu-013-str-result.xml
+Using    PDFFile: pdf/eu-013.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 22 corrDet: 22 detected: 22  Precision: 22 / 22 = 1.0  Recall: 22 / 22 = 1.0
+Table 2:  GT size: 45 corrDet: 45 detected: 45  Precision: 45 / 45 = 1.0  Recall: 45 / 45 = 1.0
+Table 3:  GT size: 14 corrDet: 14 detected: 14  Precision: 14 / 14 = 1.0  Recall: 14 / 14 = 1.0
+Table 4:  GT size: 23 corrDet: 23 detected: 23  Precision: 23 / 23 = 1.0  Recall: 23 / 23 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 22 CORR: 22 DET: 22 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 45 CORR: 45 DET: 45 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 14 CORR: 14 DET: 14 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 23 CORR: 23 DET: 23 Prec: 1.0 Recall: 1.0
+[eu-013] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-014.pdf'
+..............................
+Running evaluation for GT='gt/eu-014-str.xml'; RES='res/eu-014-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-014-str.xml
+Using resultFile: res/eu-014-str-result.xml
+Using    PDFFile: pdf/eu-014.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 22 corrDet: 20 detected: 23  Precision: 20 / 23 = 0.8695652  Recall: 20 / 22 = 0.90909094
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 22 CORR: 20 DET: 23 Prec: 0.8695652 Recall: 0.90909094
+[eu-014] PRECISION: 0.87; RECALL: 0.91; F1: 0.89
+********************************************************************************
+Processing 'eu-015.pdf'
+..............................
+Running evaluation for GT='gt/eu-015-str.xml'; RES='res/eu-015-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-015-str.xml
+Using resultFile: res/eu-015-str-result.xml
+Using    PDFFile: pdf/eu-015.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 34 corrDet: 34 detected: 34  Precision: 34 / 34 = 1.0  Recall: 34 / 34 = 1.0
+Table 2:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+Table 3:  GT size: 94 corrDet: 94 detected: 94  Precision: 94 / 94 = 1.0  Recall: 94 / 94 = 1.0
+Table 4:  GT size: 97 corrDet: 97 detected: 97  Precision: 97 / 97 = 1.0  Recall: 97 / 97 = 1.0
+Table 5:  GT size: 97 corrDet: 94 detected: 94  Precision: 94 / 94 = 1.0  Recall: 94 / 97 = 0.96907216
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 34 CORR: 34 DET: 34 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 94 CORR: 94 DET: 94 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 97 CORR: 97 DET: 97 Prec: 1.0 Recall: 1.0
+Table: 5 GT: 97 CORR: 94 DET: 94 Prec: 1.0 Recall: 0.96907216
+[eu-015] PRECISION: 1.00; RECALL: 0.99; F1: 1.00
+********************************************************************************
+Processing 'eu-016.pdf'
+..............................
+Running evaluation for GT='gt/eu-016-str.xml'; RES='res/eu-016-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-016-str.xml
+Using resultFile: res/eu-016-str-result.xml
+Using    PDFFile: pdf/eu-016.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 274 corrDet: 256 detected: 265  Precision: 256 / 265 = 0.96603775  Recall: 256 / 274 = 0.93430656
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 274 CORR: 256 DET: 265 Prec: 0.96603775 Recall: 0.93430656
+[eu-016] PRECISION: 0.97; RECALL: 0.93; F1: 0.95
+********************************************************************************
+Processing 'eu-017.pdf'
+..............................
+Running evaluation for GT='gt/eu-017-str.xml'; RES='res/eu-017-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-017-str.xml
+Using resultFile: res/eu-017-str-result.xml
+Using    PDFFile: pdf/eu-017.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 247 corrDet: 229 detected: 238  Precision: 229 / 238 = 0.96218485  Recall: 229 / 247 = 0.9271255
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 247 CORR: 229 DET: 238 Prec: 0.96218485 Recall: 0.9271255
+[eu-017] PRECISION: 0.96; RECALL: 0.93; F1: 0.94
+********************************************************************************
+Processing 'eu-018.pdf'
+..............................
+Running evaluation for GT='gt/eu-018-str.xml'; RES='res/eu-018-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-018-str.xml
+Using resultFile: res/eu-018-str-result.xml
+Using    PDFFile: pdf/eu-018.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 148 corrDet: 8 detected: 26  Precision: 8 / 26 = 0.30769232  Recall: 8 / 148 = 0.054054055
+Table 2:  GT size: 223 corrDet: 8 detected: 23  Precision: 8 / 23 = 0.3478261  Recall: 8 / 223 = 0.03587444
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 148 CORR: 8 DET: 26 Prec: 0.30769232 Recall: 0.054054055
+Table: 2 GT: 223 CORR: 8 DET: 23 Prec: 0.3478261 Recall: 0.03587444
+[eu-018] PRECISION: 0.33; RECALL: 0.04; F1: 0.08
+********************************************************************************
+Processing 'eu-019.pdf'
+..............................
+Running evaluation for GT='gt/eu-019-str.xml'; RES='res/eu-019-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-019-str.xml
+Using resultFile: res/eu-019-str-result.xml
+Using    PDFFile: pdf/eu-019.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 166 corrDet: 148 detected: 157  Precision: 148 / 157 = 0.9426752  Recall: 148 / 166 = 0.8915663
+!!!!!!!!!! 1 FALSE POSITIVE TABLES FOUND !!!!!!!!!!!!
+FP table with 7 adjacency relations
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 166 CORR: 148 DET: 157 Prec: 0.9426752 Recall: 0.8915663
+FP table with  7  adj. relations found
+[eu-019] PRECISION: 0.90; RECALL: 0.89; F1: 0.90
+********************************************************************************
+Processing 'eu-020.pdf'
+..............................
+Running evaluation for GT='gt/eu-020-str.xml'; RES='res/eu-020-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-020-str.xml
+Using resultFile: res/eu-020-str-result.xml
+Using    PDFFile: pdf/eu-020.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 22 corrDet: 22 detected: 22  Precision: 22 / 22 = 1.0  Recall: 22 / 22 = 1.0
+Table 2:  GT size: 30 corrDet: 5 detected: 17  Precision: 5 / 17 = 0.29411766  Recall: 5 / 30 = 0.16666667
+Table 3:  GT size: 30 corrDet: 26 detected: 29  Precision: 26 / 29 = 0.8965517  Recall: 26 / 30 = 0.8666667
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 22 CORR: 22 DET: 22 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 30 CORR: 5 DET: 17 Prec: 0.29411766 Recall: 0.16666667
+Table: 3 GT: 30 CORR: 26 DET: 29 Prec: 0.8965517 Recall: 0.8666667
+[eu-020] PRECISION: 0.78; RECALL: 0.65; F1: 0.71
+********************************************************************************
+Processing 'eu-021.pdf'
+..............................
+Running evaluation for GT='gt/eu-021-str.xml'; RES='res/eu-021-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-021-str.xml
+Using resultFile: res/eu-021-str-result.xml
+Using    PDFFile: pdf/eu-021.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 171 corrDet: 104 detected: 157  Precision: 104 / 157 = 0.6624204  Recall: 104 / 171 = 0.60818714
+Table 2:  GT size: 241 corrDet: 154 detected: 226  Precision: 154 / 226 = 0.6814159  Recall: 154 / 241 = 0.6390042
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 171 CORR: 104 DET: 157 Prec: 0.6624204 Recall: 0.60818714
+Table: 2 GT: 241 CORR: 154 DET: 226 Prec: 0.6814159 Recall: 0.6390042
+[eu-021] PRECISION: 0.67; RECALL: 0.63; F1: 0.65
+********************************************************************************
+Processing 'eu-022.pdf'
+..............................
+Running evaluation for GT='gt/eu-022-str.xml'; RES='res/eu-022-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-022-str.xml
+Using resultFile: res/eu-022-str-result.xml
+Using    PDFFile: pdf/eu-022.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 126 corrDet: 120 detected: 125  Precision: 120 / 125 = 0.96  Recall: 120 / 126 = 0.95238096
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 126 CORR: 120 DET: 125 Prec: 0.96 Recall: 0.95238096
+[eu-022] PRECISION: 0.96; RECALL: 0.95; F1: 0.96
+********************************************************************************
+Processing 'eu-023.pdf'
+..............................
+Running evaluation for GT='gt/eu-023-str.xml'; RES='res/eu-023-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-023-str.xml
+Using resultFile: res/eu-023-str-result.xml
+Using    PDFFile: pdf/eu-023.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 66 corrDet: 66 detected: 66  Precision: 66 / 66 = 1.0  Recall: 66 / 66 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 66 CORR: 66 DET: 66 Prec: 1.0 Recall: 1.0
+[eu-023] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-024.pdf'
+..............................
+Running evaluation for GT='gt/eu-024-str.xml'; RES='res/eu-024-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-024-str.xml
+Using resultFile: res/eu-024-str-result.xml
+Using    PDFFile: pdf/eu-024.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 66 corrDet: 66 detected: 66  Precision: 66 / 66 = 1.0  Recall: 66 / 66 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 66 CORR: 66 DET: 66 Prec: 1.0 Recall: 1.0
+[eu-024] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'eu-025.pdf'
+..............................
+Running evaluation for GT='gt/eu-025-str.xml'; RES='res/eu-025-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-025-str.xml
+Using resultFile: res/eu-025-str-result.xml
+Using    PDFFile: pdf/eu-025.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 21 corrDet: 16 detected: 20  Precision: 16 / 20 = 0.8  Recall: 16 / 21 = 0.7619048
+Table 2:  GT size: 70 corrDet: 65 detected: 69  Precision: 65 / 69 = 0.942029  Recall: 65 / 70 = 0.9285714
+Table 3:  GT size: 35 corrDet: 30 detected: 34  Precision: 30 / 34 = 0.88235295  Recall: 30 / 35 = 0.85714287
+Table 4:  GT size: 65 corrDet: 61 detected: 64  Precision: 61 / 64 = 0.953125  Recall: 61 / 65 = 0.93846154
+Table 5:  GT size: 91 corrDet: 86 detected: 90  Precision: 86 / 90 = 0.95555556  Recall: 86 / 91 = 0.94505495
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 21 CORR: 16 DET: 20 Prec: 0.8 Recall: 0.7619048
+Table: 2 GT: 70 CORR: 65 DET: 69 Prec: 0.942029 Recall: 0.9285714
+Table: 3 GT: 35 CORR: 30 DET: 34 Prec: 0.88235295 Recall: 0.85714287
+Table: 4 GT: 65 CORR: 61 DET: 64 Prec: 0.953125 Recall: 0.93846154
+Table: 5 GT: 91 CORR: 86 DET: 90 Prec: 0.95555556 Recall: 0.94505495
+[eu-025] PRECISION: 0.93; RECALL: 0.91; F1: 0.92
+********************************************************************************
+Processing 'eu-026.pdf'
+..............................
+Running evaluation for GT='gt/eu-026-str.xml'; RES='res/eu-026-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-026-str.xml
+Using resultFile: res/eu-026-str-result.xml
+Using    PDFFile: pdf/eu-026.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 38 corrDet: 25 detected: 40  Precision: 25 / 40 = 0.625  Recall: 25 / 38 = 0.65789473
+Table 2:  GT size: 31 corrDet: 25 detected: 33  Precision: 25 / 33 = 0.75757575  Recall: 25 / 31 = 0.8064516
+Table 3:  GT size: 31 corrDet: 25 detected: 33  Precision: 25 / 33 = 0.75757575  Recall: 25 / 31 = 0.8064516
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 38 CORR: 25 DET: 40 Prec: 0.625 Recall: 0.65789473
+Table: 2 GT: 31 CORR: 25 DET: 33 Prec: 0.75757575 Recall: 0.8064516
+Table: 3 GT: 31 CORR: 25 DET: 33 Prec: 0.75757575 Recall: 0.8064516
+[eu-026] PRECISION: 0.71; RECALL: 0.75; F1: 0.73
+********************************************************************************
+Processing 'eu-027.pdf'
+..............................
+Running evaluation for GT='gt/eu-027-str.xml'; RES='res/eu-027-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/eu-027-str.xml
+Using resultFile: res/eu-027-str-result.xml
+Using    PDFFile: pdf/eu-027.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 247 corrDet: 218 detected: 248  Precision: 218 / 248 = 0.87903225  Recall: 218 / 247 = 0.88259107
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 247 CORR: 218 DET: 248 Prec: 0.87903225 Recall: 0.88259107
+[eu-027] PRECISION: 0.88; RECALL: 0.88; F1: 0.88
+********************************************************************************
+Processing 'us-001.pdf'
+..............................
+Running evaluation for GT='gt/us-001-str.xml'; RES='res/us-001-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-001-str.xml
+Using resultFile: res/us-001-str-result.xml
+Using    PDFFile: pdf/us-001.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 527 corrDet: 514 detected: 524  Precision: 514 / 524 = 0.980916  Recall: 514 / 527 = 0.9753321
+Table 2:  GT size: 242 corrDet: 8 detected: 44  Precision: 8 / 44 = 0.18181819  Recall: 8 / 242 = 0.03305785
+!!!!!!!!!! 1 FALSE POSITIVE TABLES FOUND !!!!!!!!!!!!
+FP table with 2 adjacency relations
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 527 CORR: 514 DET: 524 Prec: 0.980916 Recall: 0.9753321
+Table: 2 GT: 242 CORR: 8 DET: 44 Prec: 0.18181819 Recall: 0.03305785
+FP table with  2  adj. relations found
+[us-001] PRECISION: 0.92; RECALL: 0.68; F1: 0.78
+********************************************************************************
+Processing 'us-002.pdf'
+..............................
+Running evaluation for GT='gt/us-002-str.xml'; RES='res/us-002-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-002-str.xml
+Using resultFile: res/us-002-str-result.xml
+Using    PDFFile: pdf/us-002.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 393 corrDet: 252 detected: 343  Precision: 252 / 343 = 0.7346939  Recall: 252 / 393 = 0.64122134
+Table 2:  GT size: 396 corrDet: 283 detected: 341  Precision: 283 / 341 = 0.829912  Recall: 283 / 396 = 0.71464646
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 393 CORR: 252 DET: 343 Prec: 0.7346939 Recall: 0.64122134
+Table: 2 GT: 396 CORR: 283 DET: 341 Prec: 0.829912 Recall: 0.71464646
+[us-002] PRECISION: 0.78; RECALL: 0.68; F1: 0.73
+********************************************************************************
+Processing 'us-003.pdf'
+..............................
+Running evaluation for GT='gt/us-003-str.xml'; RES='res/us-003-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-003-str.xml
+Using resultFile: res/us-003-str-result.xml
+Using    PDFFile: pdf/us-003.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 29 corrDet: 29 detected: 29  Precision: 29 / 29 = 1.0  Recall: 29 / 29 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 29 CORR: 29 DET: 29 Prec: 1.0 Recall: 1.0
+[us-003] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-004.pdf'
+..............................
+Running evaluation for GT='gt/us-004-str.xml'; RES='res/us-004-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-004-str.xml
+Using resultFile: res/us-004-str-result.xml
+Using    PDFFile: pdf/us-004.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 160 corrDet: 149 detected: 157  Precision: 149 / 157 = 0.9490446  Recall: 149 / 160 = 0.93125
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 160 CORR: 149 DET: 157 Prec: 0.9490446 Recall: 0.93125
+[us-004] PRECISION: 0.95; RECALL: 0.93; F1: 0.94
+********************************************************************************
+Processing 'us-005.pdf'
+..............................
+Running evaluation for GT='gt/us-005-str.xml'; RES='res/us-005-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-005-str.xml
+Using resultFile: res/us-005-str-result.xml
+Using    PDFFile: pdf/us-005.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 13 corrDet: 13 detected: 13  Precision: 13 / 13 = 1.0  Recall: 13 / 13 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 13 CORR: 13 DET: 13 Prec: 1.0 Recall: 1.0
+[us-005] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-006.pdf'
+..............................
+Running evaluation for GT='gt/us-006-str.xml'; RES='res/us-006-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-006-str.xml
+Using resultFile: res/us-006-str-result.xml
+Using    PDFFile: pdf/us-006.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 17 corrDet: 17 detected: 17  Precision: 17 / 17 = 1.0  Recall: 17 / 17 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 17 CORR: 17 DET: 17 Prec: 1.0 Recall: 1.0
+[us-006] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-007.pdf'
+..............................
+Running evaluation for GT='gt/us-007-str.xml'; RES='res/us-007-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-007-str.xml
+Using resultFile: res/us-007-str-result.xml
+Using    PDFFile: pdf/us-007.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 185 corrDet: 185 detected: 185  Precision: 185 / 185 = 1.0  Recall: 185 / 185 = 1.0
+Table 2:  GT size: 234 corrDet: 185 detected: 192  Precision: 185 / 192 = 0.9635417  Recall: 185 / 234 = 0.7905983
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 185 CORR: 185 DET: 185 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 234 CORR: 185 DET: 192 Prec: 0.9635417 Recall: 0.7905983
+[us-007] PRECISION: 0.98; RECALL: 0.88; F1: 0.93
+********************************************************************************
+Processing 'us-008.pdf'
+..............................
+Running evaluation for GT='gt/us-008-str.xml'; RES='res/us-008-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-008-str.xml
+Using resultFile: res/us-008-str-result.xml
+Using    PDFFile: pdf/us-008.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 24 corrDet: 3 detected: 10  Precision: 3 / 10 = 0.3  Recall: 3 / 24 = 0.125
+Table 2:  GT size: 34 corrDet: 3 detected: 10  Precision: 3 / 10 = 0.3  Recall: 3 / 34 = 0.0882353
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 24 CORR: 3 DET: 10 Prec: 0.3 Recall: 0.125
+Table: 2 GT: 34 CORR: 3 DET: 10 Prec: 0.3 Recall: 0.0882353
+[us-008] PRECISION: 0.30; RECALL: 0.10; F1: 0.15
+********************************************************************************
+Processing 'us-009.pdf'
+..............................
+Running evaluation for GT='gt/us-009-str.xml'; RES='res/us-009-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-009-str.xml
+Using resultFile: res/us-009-str-result.xml
+Using    PDFFile: pdf/us-009.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 187 corrDet: 139 detected: 147  Precision: 139 / 147 = 0.9455782  Recall: 139 / 187 = 0.7433155
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 187 CORR: 139 DET: 147 Prec: 0.9455782 Recall: 0.7433155
+[us-009] PRECISION: 0.95; RECALL: 0.74; F1: 0.83
+********************************************************************************
+Processing 'us-010.pdf'
+..............................
+Running evaluation for GT='gt/us-010-str.xml'; RES='res/us-010-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-010-str.xml
+Using resultFile: res/us-010-str-result.xml
+Using    PDFFile: pdf/us-010.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 43 corrDet: 24 detected: 52  Precision: 24 / 52 = 0.46153846  Recall: 24 / 43 = 0.55813956
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 43 CORR: 24 DET: 52 Prec: 0.46153846 Recall: 0.55813956
+[us-010] PRECISION: 0.46; RECALL: 0.56; F1: 0.51
+********************************************************************************
+Processing 'us-011a.pdf'
+..............................
+Running evaluation for GT='gt/us-011a-str.xml'; RES='res/us-011a-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-011a-str.xml
+Using resultFile: res/us-011a-str-result.xml
+Using    PDFFile: pdf/us-011a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 35 corrDet: 31 detected: 36  Precision: 31 / 36 = 0.8611111  Recall: 31 / 35 = 0.8857143
+Table 2:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 35 CORR: 31 DET: 36 Prec: 0.8611111 Recall: 0.8857143
+Table: 2 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+[us-011a] PRECISION: 0.91; RECALL: 0.93; F1: 0.92
+..............................
+Running evaluation for GT='gt/us-011b-str.xml'; RES='res/us-011a-str-result.xml' (loop=1)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-011b-str.xml
+Using resultFile: res/us-011a-str-result.xml
+Using    PDFFile: pdf/us-011a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 34 corrDet: 30 detected: 36  Precision: 30 / 36 = 0.8333333  Recall: 30 / 34 = 0.88235295
+Table 2:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 34 CORR: 30 DET: 36 Prec: 0.8333333 Recall: 0.88235295
+Table: 2 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+[us-011a] PRECISION: 0.89; RECALL: 0.92; F1: 0.91
+Selecting result 'a' 0.9174311926605504 vs. 0.9074074074074073
+********************************************************************************
+Processing 'us-012.pdf'
+..............................
+Running evaluation for GT='gt/us-012-str.xml'; RES='res/us-012-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-012-str.xml
+Using resultFile: res/us-012-str-result.xml
+Using    PDFFile: pdf/us-012.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 218 corrDet: 216 detected: 217  Precision: 216 / 217 = 0.9953917  Recall: 216 / 218 = 0.9908257
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 218 CORR: 216 DET: 217 Prec: 0.9953917 Recall: 0.9908257
+[us-012] PRECISION: 1.00; RECALL: 0.99; F1: 0.99
+********************************************************************************
+Processing 'us-013.pdf'
+..............................
+Running evaluation for GT='gt/us-013-str.xml'; RES='res/us-013-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-013-str.xml
+Using resultFile: res/us-013-str-result.xml
+Using    PDFFile: pdf/us-013.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 29 corrDet: 29 detected: 29  Precision: 29 / 29 = 1.0  Recall: 29 / 29 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 29 CORR: 29 DET: 29 Prec: 1.0 Recall: 1.0
+[us-013] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-014.pdf'
+..............................
+Running evaluation for GT='gt/us-014-str.xml'; RES='res/us-014-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-014-str.xml
+Using resultFile: res/us-014-str-result.xml
+Using    PDFFile: pdf/us-014.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 27 corrDet: 27 detected: 27  Precision: 27 / 27 = 1.0  Recall: 27 / 27 = 1.0
+Table 2:  GT size: 27 corrDet: 27 detected: 33  Precision: 27 / 33 = 0.8181818  Recall: 27 / 27 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 27 CORR: 27 DET: 27 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 27 CORR: 27 DET: 33 Prec: 0.8181818 Recall: 1.0
+[us-014] PRECISION: 0.90; RECALL: 1.00; F1: 0.95
+********************************************************************************
+Processing 'us-015.pdf'
+..............................
+Running evaluation for GT='gt/us-015-str.xml'; RES='res/us-015-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-015-str.xml
+Using resultFile: res/us-015-str-result.xml
+Using    PDFFile: pdf/us-015.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 28 corrDet: 28 detected: 28  Precision: 28 / 28 = 1.0  Recall: 28 / 28 = 1.0
+Table 2:  GT size: 40 corrDet: 29 detected: 37  Precision: 29 / 37 = 0.7837838  Recall: 29 / 40 = 0.725
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 28 CORR: 28 DET: 28 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 40 CORR: 29 DET: 37 Prec: 0.7837838 Recall: 0.725
+[us-015] PRECISION: 0.88; RECALL: 0.84; F1: 0.86
+********************************************************************************
+Processing 'us-016.pdf'
+..............................
+Running evaluation for GT='gt/us-016-str.xml'; RES='res/us-016-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-016-str.xml
+Using resultFile: res/us-016-str-result.xml
+Using    PDFFile: pdf/us-016.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 22 corrDet: 22 detected: 22  Precision: 22 / 22 = 1.0  Recall: 22 / 22 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 22 CORR: 22 DET: 22 Prec: 1.0 Recall: 1.0
+[us-016] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-017.pdf'
+..............................
+Running evaluation for GT='gt/us-017-str.xml'; RES='res/us-017-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-017-str.xml
+Using resultFile: res/us-017-str-result.xml
+Using    PDFFile: pdf/us-017.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 517 corrDet: 511 detected: 513  Precision: 511 / 513 = 0.9961014  Recall: 511 / 517 = 0.98839456
+Table 2:  GT size: 514 corrDet: 513 detected: 513  Precision: 513 / 513 = 1.0  Recall: 513 / 514 = 0.9980545
+Table 3:  GT size: 460 corrDet: 421 detected: 456  Precision: 421 / 456 = 0.9232456  Recall: 421 / 460 = 0.9152174
+Table 4:  GT size: 406 corrDet: 405 detected: 405  Precision: 405 / 405 = 1.0  Recall: 405 / 406 = 0.99753696
+Table 5:  GT size: 406 corrDet: 405 detected: 405  Precision: 405 / 405 = 1.0  Recall: 405 / 406 = 0.99753696
+Table 6:  GT size: 406 corrDet: 405 detected: 405  Precision: 405 / 405 = 1.0  Recall: 405 / 406 = 0.99753696
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 517 CORR: 511 DET: 513 Prec: 0.9961014 Recall: 0.98839456
+Table: 2 GT: 514 CORR: 513 DET: 513 Prec: 1.0 Recall: 0.9980545
+Table: 3 GT: 460 CORR: 421 DET: 456 Prec: 0.9232456 Recall: 0.9152174
+Table: 4 GT: 406 CORR: 405 DET: 405 Prec: 1.0 Recall: 0.99753696
+Table: 5 GT: 406 CORR: 405 DET: 405 Prec: 1.0 Recall: 0.99753696
+Table: 6 GT: 406 CORR: 405 DET: 405 Prec: 1.0 Recall: 0.99753696
+[us-017] PRECISION: 0.99; RECALL: 0.98; F1: 0.98
+********************************************************************************
+Processing 'us-018.pdf'
+..............................
+Running evaluation for GT='gt/us-018-str.xml'; RES='res/us-018-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-018-str.xml
+Using resultFile: res/us-018-str-result.xml
+Using    PDFFile: pdf/us-018.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 1198 corrDet: 1192 detected: 1193  Precision: 1192 / 1193 = 0.9991618  Recall: 1192 / 1198 = 0.99499166
+Table 2:  GT size: 1082 corrDet: 1081 detected: 1082  Precision: 1081 / 1082 = 0.9990758  Recall: 1081 / 1082 = 0.9990758
+Table 3:  GT size: 512 corrDet: 508 detected: 513  Precision: 508 / 513 = 0.9902534  Recall: 508 / 512 = 0.9921875
+Table 4:  GT size: 359 corrDet: 351 detected: 354  Precision: 351 / 354 = 0.9915254  Recall: 351 / 359 = 0.97771585
+Table 5:  GT size: 187 corrDet: 187 detected: 187  Precision: 187 / 187 = 1.0  Recall: 187 / 187 = 1.0
+Table 6:  GT size: 302 corrDet: 298 detected: 300  Precision: 298 / 300 = 0.99333334  Recall: 298 / 302 = 0.98675495
+Table 7:  GT size: 302 corrDet: 298 detected: 300  Precision: 298 / 300 = 0.99333334  Recall: 298 / 302 = 0.98675495
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 1198 CORR: 1192 DET: 1193 Prec: 0.9991618 Recall: 0.99499166
+Table: 2 GT: 1082 CORR: 1081 DET: 1082 Prec: 0.9990758 Recall: 0.9990758
+Table: 3 GT: 512 CORR: 508 DET: 513 Prec: 0.9902534 Recall: 0.9921875
+Table: 4 GT: 359 CORR: 351 DET: 354 Prec: 0.9915254 Recall: 0.97771585
+Table: 5 GT: 187 CORR: 187 DET: 187 Prec: 1.0 Recall: 1.0
+Table: 6 GT: 302 CORR: 298 DET: 300 Prec: 0.99333334 Recall: 0.98675495
+Table: 7 GT: 302 CORR: 298 DET: 300 Prec: 0.99333334 Recall: 0.98675495
+[us-018] PRECISION: 1.00; RECALL: 0.99; F1: 0.99
+********************************************************************************
+Processing 'us-019.pdf'
+..............................
+Running evaluation for GT='gt/us-019-str.xml'; RES='res/us-019-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-019-str.xml
+Using resultFile: res/us-019-str-result.xml
+Using    PDFFile: pdf/us-019.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 47 corrDet: 36 detected: 50  Precision: 36 / 50 = 0.72  Recall: 36 / 47 = 0.7659575
+Table 2:  GT size: 486 corrDet: 485 detected: 485  Precision: 485 / 485 = 1.0  Recall: 485 / 486 = 0.9979424
+Table 3:  GT size: 102 corrDet: 33 detected: 72  Precision: 33 / 72 = 0.45833334  Recall: 33 / 102 = 0.32352942
+Table 4:  GT size: 62 corrDet: 5 detected: 19  Precision: 5 / 19 = 0.2631579  Recall: 5 / 62 = 0.08064516
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 47 CORR: 36 DET: 50 Prec: 0.72 Recall: 0.7659575
+Table: 2 GT: 486 CORR: 485 DET: 485 Prec: 1.0 Recall: 0.9979424
+Table: 3 GT: 102 CORR: 33 DET: 72 Prec: 0.45833334 Recall: 0.32352942
+Table: 4 GT: 62 CORR: 5 DET: 19 Prec: 0.2631579 Recall: 0.08064516
+[us-019] PRECISION: 0.89; RECALL: 0.80; F1: 0.85
+********************************************************************************
+Processing 'us-020.pdf'
+..............................
+Running evaluation for GT='gt/us-020-str.xml'; RES='res/us-020-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-020-str.xml
+Using resultFile: res/us-020-str-result.xml
+Using    PDFFile: pdf/us-020.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 591 corrDet: 591 detected: 591  Precision: 591 / 591 = 1.0  Recall: 591 / 591 = 1.0
+Table 2:  GT size: 110 corrDet: 110 detected: 110  Precision: 110 / 110 = 1.0  Recall: 110 / 110 = 1.0
+Table 3:  GT size: 682 corrDet: 682 detected: 682  Precision: 682 / 682 = 1.0  Recall: 682 / 682 = 1.0
+Table 4:  GT size: 127 corrDet: 127 detected: 127  Precision: 127 / 127 = 1.0  Recall: 127 / 127 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 591 CORR: 591 DET: 591 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 110 CORR: 110 DET: 110 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 682 CORR: 682 DET: 682 Prec: 1.0 Recall: 1.0
+Table: 4 GT: 127 CORR: 127 DET: 127 Prec: 1.0 Recall: 1.0
+[us-020] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-021.pdf'
+..............................
+Running evaluation for GT='gt/us-021-str.xml'; RES='res/us-021-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-021-str.xml
+Using resultFile: res/us-021-str-result.xml
+Using    PDFFile: pdf/us-021.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 108 corrDet: 99 detected: 105  Precision: 99 / 105 = 0.94285715  Recall: 99 / 108 = 0.9166667
+Table 2:  GT size: 17 corrDet: 17 detected: 17  Precision: 17 / 17 = 1.0  Recall: 17 / 17 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 108 CORR: 99 DET: 105 Prec: 0.94285715 Recall: 0.9166667
+Table: 2 GT: 17 CORR: 17 DET: 17 Prec: 1.0 Recall: 1.0
+[us-021] PRECISION: 0.95; RECALL: 0.93; F1: 0.94
+********************************************************************************
+Processing 'us-022.pdf'
+..............................
+Running evaluation for GT='gt/us-022-str.xml'; RES='res/us-022-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-022-str.xml
+Using resultFile: res/us-022-str-result.xml
+Using    PDFFile: pdf/us-022.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 115 corrDet: 115 detected: 115  Precision: 115 / 115 = 1.0  Recall: 115 / 115 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 115 CORR: 115 DET: 115 Prec: 1.0 Recall: 1.0
+[us-022] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-023.pdf'
+..............................
+Running evaluation for GT='gt/us-023-str.xml'; RES='res/us-023-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-023-str.xml
+Using resultFile: res/us-023-str-result.xml
+Using    PDFFile: pdf/us-023.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 184 corrDet: 183 detected: 183  Precision: 183 / 183 = 1.0  Recall: 183 / 184 = 0.9945652
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 184 CORR: 183 DET: 183 Prec: 1.0 Recall: 0.9945652
+[us-023] PRECISION: 1.00; RECALL: 0.99; F1: 1.00
+********************************************************************************
+Processing 'us-024.pdf'
+..............................
+Running evaluation for GT='gt/us-024-str.xml'; RES='res/us-024-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-024-str.xml
+Using resultFile: res/us-024-str-result.xml
+Using    PDFFile: pdf/us-024.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 685 corrDet: 628 detected: 688  Precision: 628 / 688 = 0.9127907  Recall: 628 / 685 = 0.91678834
+Table 2:  GT size: 685 corrDet: 659 detected: 682  Precision: 659 / 682 = 0.96627563  Recall: 659 / 685 = 0.9620438
+Table 3:  GT size: 623 corrDet: 559 detected: 618  Precision: 559 / 618 = 0.90453076  Recall: 559 / 623 = 0.8972713
+Table 4:  GT size: 552 corrDet: 538 detected: 550  Precision: 538 / 550 = 0.97818184  Recall: 538 / 552 = 0.9746377
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 685 CORR: 628 DET: 688 Prec: 0.9127907 Recall: 0.91678834
+Table: 2 GT: 685 CORR: 659 DET: 682 Prec: 0.96627563 Recall: 0.9620438
+Table: 3 GT: 623 CORR: 559 DET: 618 Prec: 0.90453076 Recall: 0.8972713
+Table: 4 GT: 552 CORR: 538 DET: 550 Prec: 0.97818184 Recall: 0.9746377
+[us-024] PRECISION: 0.94; RECALL: 0.94; F1: 0.94
+********************************************************************************
+Processing 'us-025.pdf'
+..............................
+Running evaluation for GT='gt/us-025-str.xml'; RES='res/us-025-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-025-str.xml
+Using resultFile: res/us-025-str-result.xml
+Using    PDFFile: pdf/us-025.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 134 corrDet: 126 detected: 132  Precision: 126 / 132 = 0.95454544  Recall: 126 / 134 = 0.9402985
+Table 2:  GT size: 335 corrDet: 314 detected: 327  Precision: 314 / 327 = 0.96024466  Recall: 314 / 335 = 0.93731344
+Table 3:  GT size: 184 corrDet: 160 detected: 177  Precision: 160 / 177 = 0.9039548  Recall: 160 / 184 = 0.8695652
+Table 4:  GT size: 335 corrDet: 312 detected: 329  Precision: 312 / 329 = 0.94832826  Recall: 312 / 335 = 0.93134326
+Table 5:  GT size: 184 corrDet: 160 detected: 177  Precision: 160 / 177 = 0.9039548  Recall: 160 / 184 = 0.8695652
+Table 6:  GT size: 677 corrDet: 669 detected: 675  Precision: 669 / 675 = 0.9911111  Recall: 669 / 677 = 0.98818314
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 134 CORR: 126 DET: 132 Prec: 0.95454544 Recall: 0.9402985
+Table: 2 GT: 335 CORR: 314 DET: 327 Prec: 0.96024466 Recall: 0.93731344
+Table: 3 GT: 184 CORR: 160 DET: 177 Prec: 0.9039548 Recall: 0.8695652
+Table: 4 GT: 335 CORR: 312 DET: 329 Prec: 0.94832826 Recall: 0.93134326
+Table: 5 GT: 184 CORR: 160 DET: 177 Prec: 0.9039548 Recall: 0.8695652
+Table: 6 GT: 677 CORR: 669 DET: 675 Prec: 0.9911111 Recall: 0.98818314
+[us-025] PRECISION: 0.96; RECALL: 0.94; F1: 0.95
+********************************************************************************
+Processing 'us-026.pdf'
+..............................
+Running evaluation for GT='gt/us-026-str.xml'; RES='res/us-026-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-026-str.xml
+Using resultFile: res/us-026-str-result.xml
+Using    PDFFile: pdf/us-026.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 142 corrDet: 6 detected: 55  Precision: 6 / 55 = 0.10909091  Recall: 6 / 142 = 0.04225352
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 142 CORR: 6 DET: 55 Prec: 0.10909091 Recall: 0.04225352
+[us-026] PRECISION: 0.11; RECALL: 0.04; F1: 0.06
+********************************************************************************
+Processing 'us-027.pdf'
+..............................
+Running evaluation for GT='gt/us-027-str.xml'; RES='res/us-027-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-027-str.xml
+Using resultFile: res/us-027-str-result.xml
+Using    PDFFile: pdf/us-027.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 42 corrDet: 42 detected: 42  Precision: 42 / 42 = 1.0  Recall: 42 / 42 = 1.0
+Table 2:  GT size: 102 corrDet: 102 detected: 102  Precision: 102 / 102 = 1.0  Recall: 102 / 102 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 42 CORR: 42 DET: 42 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 102 CORR: 102 DET: 102 Prec: 1.0 Recall: 1.0
+[us-027] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-028.pdf'
+..............................
+Running evaluation for GT='gt/us-028-str.xml'; RES='res/us-028-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-028-str.xml
+Using resultFile: res/us-028-str-result.xml
+Using    PDFFile: pdf/us-028.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 37 corrDet: 37 detected: 37  Precision: 37 / 37 = 1.0  Recall: 37 / 37 = 1.0
+Table 2:  GT size: 52 corrDet: 52 detected: 52  Precision: 52 / 52 = 1.0  Recall: 52 / 52 = 1.0
+!!!!!!!!!! 1 FALSE POSITIVE TABLES FOUND !!!!!!!!!!!!
+FP table with 43 adjacency relations
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 37 CORR: 37 DET: 37 Prec: 1.0 Recall: 1.0
+Table: 2 GT: 52 CORR: 52 DET: 52 Prec: 1.0 Recall: 1.0
+FP table with  43  adj. relations found
+[us-028] PRECISION: 0.67; RECALL: 1.00; F1: 0.81
+********************************************************************************
+Processing 'us-029.pdf'
+..............................
+Running evaluation for GT='gt/us-029-str.xml'; RES='res/us-029-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-029-str.xml
+Using resultFile: res/us-029-str-result.xml
+Using    PDFFile: pdf/us-029.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 57 corrDet: 57 detected: 57  Precision: 57 / 57 = 1.0  Recall: 57 / 57 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 57 CORR: 57 DET: 57 Prec: 1.0 Recall: 1.0
+[us-029] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-030.pdf'
+..............................
+Running evaluation for GT='gt/us-030-str.xml'; RES='res/us-030-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-030-str.xml
+Using resultFile: res/us-030-str-result.xml
+Using    PDFFile: pdf/us-030.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 76 corrDet: 68 detected: 75  Precision: 68 / 75 = 0.9066667  Recall: 68 / 76 = 0.8947368
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 76 CORR: 68 DET: 75 Prec: 0.9066667 Recall: 0.8947368
+[us-030] PRECISION: 0.91; RECALL: 0.89; F1: 0.90
+********************************************************************************
+Processing 'us-031a.pdf'
+..............................
+Running evaluation for GT='gt/us-031a-str.xml'; RES='res/us-031a-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-031a-str.xml
+Using resultFile: res/us-031a-str-result.xml
+Using    PDFFile: pdf/us-031a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 83 corrDet: 5 detected: 30  Precision: 5 / 30 = 0.16666667  Recall: 5 / 83 = 0.060240965
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 83 CORR: 5 DET: 30 Prec: 0.16666667 Recall: 0.060240965
+[us-031a] PRECISION: 0.17; RECALL: 0.06; F1: 0.09
+..............................
+Running evaluation for GT='gt/us-031b-str.xml'; RES='res/us-031a-str-result.xml' (loop=1)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-031b-str.xml
+Using resultFile: res/us-031a-str-result.xml
+Using    PDFFile: pdf/us-031a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 82 corrDet: 5 detected: 30  Precision: 5 / 30 = 0.16666667  Recall: 5 / 82 = 0.06097561
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 82 CORR: 5 DET: 30 Prec: 0.16666667 Recall: 0.06097561
+[us-031a] PRECISION: 0.17; RECALL: 0.06; F1: 0.09
+Selecting result 'b' 0.08849557522123894 vs. 0.08928571428571429
+********************************************************************************
+Processing 'us-032.pdf'
+..............................
+Running evaluation for GT='gt/us-032-str.xml'; RES='res/us-032-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-032-str.xml
+Using resultFile: res/us-032-str-result.xml
+Using    PDFFile: pdf/us-032.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 24 corrDet: 2 detected: 12  Precision: 2 / 12 = 0.16666667  Recall: 2 / 24 = 0.083333336
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 24 CORR: 2 DET: 12 Prec: 0.16666667 Recall: 0.083333336
+[us-032] PRECISION: 0.17; RECALL: 0.08; F1: 0.11
+********************************************************************************
+Processing 'us-033.pdf'
+..............................
+Running evaluation for GT='gt/us-033-str.xml'; RES='res/us-033-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-033-str.xml
+Using resultFile: res/us-033-str-result.xml
+Using    PDFFile: pdf/us-033.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 269 corrDet: 26 detected: 148  Precision: 26 / 148 = 0.17567568  Recall: 26 / 269 = 0.09665427
+Table 2:  GT size: 22 corrDet: 22 detected: 22  Precision: 22 / 22 = 1.0  Recall: 22 / 22 = 1.0
+Table 3:  GT size: 16 corrDet: 13 detected: 13  Precision: 13 / 13 = 1.0  Recall: 13 / 16 = 0.8125
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 269 CORR: 26 DET: 148 Prec: 0.17567568 Recall: 0.09665427
+Table: 2 GT: 22 CORR: 22 DET: 22 Prec: 1.0 Recall: 1.0
+Table: 3 GT: 16 CORR: 13 DET: 13 Prec: 1.0 Recall: 0.8125
+[us-033] PRECISION: 0.33; RECALL: 0.20; F1: 0.25
+********************************************************************************
+Processing 'us-034.pdf'
+..............................
+Running evaluation for GT='gt/us-034-str.xml'; RES='res/us-034-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-034-str.xml
+Using resultFile: res/us-034-str-result.xml
+Using    PDFFile: pdf/us-034.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 270 corrDet: 228 detected: 262  Precision: 228 / 262 = 0.870229  Recall: 228 / 270 = 0.84444445
+Table 2:  GT size: 270 corrDet: 228 detected: 262  Precision: 228 / 262 = 0.870229  Recall: 228 / 270 = 0.84444445
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 270 CORR: 228 DET: 262 Prec: 0.870229 Recall: 0.84444445
+Table: 2 GT: 270 CORR: 228 DET: 262 Prec: 0.870229 Recall: 0.84444445
+[us-034] PRECISION: 0.87; RECALL: 0.84; F1: 0.86
+********************************************************************************
+Processing 'us-035a.pdf'
+..............................
+Running evaluation for GT='gt/us-035a-str.xml'; RES='res/us-035a-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-035a-str.xml
+Using resultFile: res/us-035a-str-result.xml
+Using    PDFFile: pdf/us-035a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 84 corrDet: 35 detected: 65  Precision: 35 / 65 = 0.53846157  Recall: 35 / 84 = 0.41666666
+Table 2:  GT size: 421 corrDet: 418 detected: 421  Precision: 418 / 421 = 0.9928741  Recall: 418 / 421 = 0.9928741
+Table 3:  GT size: 38 corrDet: 30 detected: 39  Precision: 30 / 39 = 0.7692308  Recall: 30 / 38 = 0.7894737
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 84 CORR: 35 DET: 65 Prec: 0.53846157 Recall: 0.41666666
+Table: 2 GT: 421 CORR: 418 DET: 421 Prec: 0.9928741 Recall: 0.9928741
+Table: 3 GT: 38 CORR: 30 DET: 39 Prec: 0.7692308 Recall: 0.7894737
+[us-035a] PRECISION: 0.92; RECALL: 0.89; F1: 0.90
+..............................
+Running evaluation for GT='gt/us-035b-str.xml'; RES='res/us-035a-str-result.xml' (loop=1)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-035b-str.xml
+Using resultFile: res/us-035a-str-result.xml
+Using    PDFFile: pdf/us-035a.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 84 corrDet: 35 detected: 65  Precision: 35 / 65 = 0.53846157  Recall: 35 / 84 = 0.41666666
+Table 2:  GT size: 421 corrDet: 418 detected: 421  Precision: 418 / 421 = 0.9928741  Recall: 418 / 421 = 0.9928741
+Table 3:  GT size: 38 corrDet: 30 detected: 39  Precision: 30 / 39 = 0.7692308  Recall: 30 / 38 = 0.7894737
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 84 CORR: 35 DET: 65 Prec: 0.53846157 Recall: 0.41666666
+Table: 2 GT: 421 CORR: 418 DET: 421 Prec: 0.9928741 Recall: 0.9928741
+Table: 3 GT: 38 CORR: 30 DET: 39 Prec: 0.7692308 Recall: 0.7894737
+[us-035a] PRECISION: 0.92; RECALL: 0.89; F1: 0.90
+Selecting result 'b' 0.9044943820224719 vs. 0.9044943820224719
+********************************************************************************
+Processing 'us-036.pdf'
+..............................
+Running evaluation for GT='gt/us-036-str.xml'; RES='res/us-036-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-036-str.xml
+Using resultFile: res/us-036-str-result.xml
+Using    PDFFile: pdf/us-036.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 19 corrDet: 16 detected: 16  Precision: 16 / 16 = 1.0  Recall: 16 / 19 = 0.84210527
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 19 CORR: 16 DET: 16 Prec: 1.0 Recall: 0.84210527
+[us-036] PRECISION: 1.00; RECALL: 0.84; F1: 0.91
+********************************************************************************
+Processing 'us-037.pdf'
+..............................
+Running evaluation for GT='gt/us-037-str.xml'; RES='res/us-037-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-037-str.xml
+Using resultFile: res/us-037-str-result.xml
+Using    PDFFile: pdf/us-037.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 310 corrDet: 296 detected: 305  Precision: 296 / 305 = 0.9704918  Recall: 296 / 310 = 0.9548387
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 310 CORR: 296 DET: 305 Prec: 0.9704918 Recall: 0.9548387
+[us-037] PRECISION: 0.97; RECALL: 0.95; F1: 0.96
+********************************************************************************
+Processing 'us-038.pdf'
+..............................
+Running evaluation for GT='gt/us-038-str.xml'; RES='res/us-038-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-038-str.xml
+Using resultFile: res/us-038-str-result.xml
+Using    PDFFile: pdf/us-038.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 22 corrDet: 22 detected: 22  Precision: 22 / 22 = 1.0  Recall: 22 / 22 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 22 CORR: 22 DET: 22 Prec: 1.0 Recall: 1.0
+[us-038] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-039.pdf'
+..............................
+Running evaluation for GT='gt/us-039-str.xml'; RES='res/us-039-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-039-str.xml
+Using resultFile: res/us-039-str-result.xml
+Using    PDFFile: pdf/us-039.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 19 corrDet: 19 detected: 19  Precision: 19 / 19 = 1.0  Recall: 19 / 19 = 1.0
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 19 CORR: 19 DET: 19 Prec: 1.0 Recall: 1.0
+[us-039] PRECISION: 1.00; RECALL: 1.00; F1: 1.00
+********************************************************************************
+Processing 'us-040.pdf'
+..............................
+Running evaluation for GT='gt/us-040-str.xml'; RES='res/us-040-str-result.xml' (loop=0)
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Using     GTFile: gt/us-040-str.xml
+Using resultFile: res/us-040-str-result.xml
+Using    PDFFile: pdf/us-040.pdf
+startPage: 1
+endPage: 2147483647
+Table 1:  GT size: 30 corrDet: 25 detected: 29  Precision: 25 / 29 = 0.86206895  Recall: 25 / 30 = 0.8333333
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table: 1 GT: 30 CORR: 25 DET: 29 Prec: 0.86206895 Recall: 0.8333333
+[us-040] PRECISION: 0.86; RECALL: 0.83; F1: 0.85
+********************************************************************************
+Per document average scores
+Precision: 0.8714227705826723; Recall: 0.8467831413095247; F1: 0.8589262858140391
+********************************************************************************
+Average scores
+Num of GT: 25319; DET: 24097; CORR: 22722
+Precision: 0.942938955056646; Recall: 0.8974288084047554; F1: 0.9196211753278292
