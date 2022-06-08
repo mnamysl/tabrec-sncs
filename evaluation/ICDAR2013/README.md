@@ -7,7 +7,7 @@ In the following, we describe the steps that are required to run our evaluation 
 
 ## Dependencies
 We employ the command-line tool written in Java that enables us to perform evaluation on individual files. 
-Our script collects the results from all files in the benchmark data set and calculate the cummulative scores.
+Our script calls the Java tool for each document, collects the results from all files in the benchmark data set, and calculate the cummulative scores.
 
 The aforementioned tool can be downloaded from [here](https://roundtrippdf.com/en/data-extraction/table-recognition-dataset-tools/). 
 After downloading, please rename the JAR file to **tool.jar** and place it in the directory where the **eval.py** script is located.
@@ -17,11 +17,16 @@ Please download the **Competition dataset of EU and US documents** from [here](h
 Next, extract all PDF files to a separate directory, e.g., *PDF_FILES*. Similarly, place all XML files in another directory, e.g., *REF_XML*.
 
 ## Setting Up the Reconition Results
-The result XML files from your method need to be placed in another directory, e.g., *RES_XML*. Please note that the files need to follow the name pattern supported by the script, i.e., **[filename]-str-result.xml**, where **[filename]** is the basename of the corresponding PDF file.
+The result XML files from your method need to be placed in another directory, e.g., *RES_XML*. Please note that the files need to follow the name pattern supported by the Java tool and consequently by our script, i.e., **[filename]-str-result.xml**, where **[filename]** is the basename of the corresponding PDF file.
+
+In the case that the result XML files have the same basename as the corresponding PDF file, you can rename the files as follows:
+```sh
+rename "s/.xml/-str-result.xml/" RES_XML/*
+```
 
 ## Executing the Script
 Finally, the evaluation can be performed by calling:
-```
+```py
 python3 eval.py --pdf-dir PDF_FILES --gt-dir REF_XML --res-dir RES_XML
 ```
 At the end of the output produced by the script, the cummulative scores are displayed, e.g.:
