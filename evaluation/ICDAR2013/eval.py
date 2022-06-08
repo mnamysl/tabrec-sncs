@@ -28,7 +28,7 @@ def process_file(pdf_path_):
 
         if loop > 0:
             # use an alternative ground-truth file
-            gt_fname = os.path.join("gt", f"{fbasename[:-1]}b-str.xml")
+            gt_fname = os.path.join(args.gt_dir, f"{fbasename[:-1]}b-str.xml")
 
         print("." * 30)
         print(f"Running evaluation for GT='{gt_fname}'; RES='{res_fname}' (loop={loop})")
