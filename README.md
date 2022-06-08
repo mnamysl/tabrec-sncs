@@ -16,6 +16,6 @@ This repository is structured as follows:
     ├── icdar2019
     └── sanity-check
 ```
-The [evaluation/ICDAR2013](./evaluation/ICDAR2013) directory contains the evaluation script used in the experiment performed on the ICDAR 2013 data set. For a detailed description, see the corresponding [README](./evaluation/ICDAR2013/README.md) file.
+The **evaluation/ICDAR2013** directory contains the evaluation script used in the experiment performed on the ICDAR 2013 data set. For a detailed description, see the corresponding README file.
 
-Moreover, the [results](/results) directory contains the logs and XML files from the experiments described in our paper that were performed on the [ICDAR 2013](./results/icdar2013) and [ICDAR 2019](./results/icdar2019) benchmarks. Moreover, we also include the results of the [sanity check](./results/sanity-check) that allowed us to locate and fix an issue in the evaluation script employed to perform the evaluation on the ICDAR 2019 benchmark. For more details about this experiment, please see §5.6 in our paper.
+Moreover, the **results** directory contains the logs and XML files from the experiments described in our paper that were performed on the ICDAR 2013 and ICDAR 2019 benchmarks. Moreover, we also include the results of the **sanity check** that allowed us to locate and fix an issue in the evaluation script employed to perform the evaluation on the ICDAR 2019 benchmark. For more details about this experiment, please see §5.6 in our paper.
